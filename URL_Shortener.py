@@ -84,7 +84,7 @@ banner = f'''
 '''
 details = f"""{green}                  Author   : Macgaiver
                   Github   : https://github.com/macgaiver11996
-                  Telegram : t.me/M4C641V3R{rst}"""
+                  Telegram : t.me/macgaiver_official{rst}"""
            
 
 symbol = f"{green}\n****************************************************************{rst}"
